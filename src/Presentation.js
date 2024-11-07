@@ -1,16 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import ProfileImage from './assets/ak.jpeg'; // Adjust the path if necessary
 import { 
-  BarChart, 
+  
   GraduationCap, 
   Target,
   Heart,
   Star,
-  ChevronRight,
-  Users,
-  Lightbulb,
+ 
+  
+ 
   Trophy,
-  Building,
+
   Mail,
   MapPin
 } from 'lucide-react';
